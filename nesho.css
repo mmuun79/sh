@@ -1,0 +1,66 @@
+*{margin: 0;padding: 0;}
+.wel{
+    width: 100%;
+    height: 100%;
+    color:red;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+#bo{
+    color: black;
+    
+    width: 100%;
+    height: 560px;
+    margin:auto;
+    text-transform: uppercase;
+}
+#detail{
+    float: right;
+    border: 2px outset red;
+}
+#foot{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 40px;
+}
+h6{
+    text-align: center;
+}
+.goods{
+    margin-left: 30px;
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    border: 2px outset rgb(6, 139, 139);
+    float: left;
+    margin-right: calc(10px)
+}
+img{
+    background-size: cover;
+}
+#privacy{
+    color: red;
+}
+body{
+    background-size: cover;
+}
+.Add{
+    width: 100px;
+    height: 100%;
+    display:flex;align-items:flex-end;
+}
+button{
+    background-color:#f66f6a;
+    color:white;
+    width: 100px;
+    height: 20px;
+    border:0;
+    font-size: 16px;
+    box-sizing: content-box;				
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #a54b4a;
+}
